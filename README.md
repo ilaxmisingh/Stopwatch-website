@@ -1,6 +1,5 @@
-# PRODIGY-WD-02
-# Stopwatch Website - Prodigy Infotech Internship Task 2
-
+Stopwatch Website 
+Live Demo:https://stopwatch-website.vercel.app/
 ## Overview
 
 This repository contains the source code for a Stopwatch website, developed as part of Task 2 for the Prodigy Infotech Web Development Internship. The Stopwatch allows users to measure elapsed time with precision and simplicity.
